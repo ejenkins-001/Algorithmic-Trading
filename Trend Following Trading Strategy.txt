@@ -23,3 +23,4 @@ If (18 day MA < 0 for two consecutive closes) & (2 red wide bodied bar candles w
 	Remove stop loss from previously triggered daily chart buy order
 	position size = size of the previously triggered daily buy order
 	enable the ability to place new orders for daily chart buy signals
+	

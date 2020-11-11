@@ -1,4 +1,4 @@
-# Trend Following Trading Algorithm
+# Trend Following Trading Algorithm (Buy Strategy)
 
 •	Created trend following trading algorithm to gain risk adjusted profits from major trend reversals
 

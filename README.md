@@ -12,3 +12,5 @@
 •	ending capital = $23,591
 
 •	total return = 136%
+
+•	risk = 1% of total capital per trade

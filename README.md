@@ -6,3 +6,7 @@
 
 ![backtest_final](https://user-images.githubusercontent.com/35648851/98486673-19f8d300-221f-11eb-9fdf-6d7d2b2b99ed.png)
 ![text](https://user-images.githubusercontent.com/35648851/98486819-dbafe380-221f-11eb-9bba-b4bc2d52dbc4.JPG)
+
+starting capital = $10,000
+ending capital = $23,591
+total return = 136%

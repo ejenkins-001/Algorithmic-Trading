@@ -1,6 +1,6 @@
 ***LONG TERM TREND FOLLOWING BUY STRATEGY***
 
-risk per trade = 100 basis points
+risk per trade = 300 basis points
 wide bodied bar = 1.14 x (average 4 day length)
 
 

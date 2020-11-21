@@ -11,7 +11,7 @@ Daily Trend Model Buy Signal
 If (18 day MA > 0 for two consecutive closes) & (2 green wide bodied bar candles where second candle closes 3% above the close of the first candle)
 	Enter buy market order at the close
 	Enter stop loss at the low of the first candle
-	position size = (account balance x .01) / (entry price - stop loss price)
+	position size = (account balance x .03) / (entry price - stop loss price)
 	disable the ability to place new orders for daily trend model buy signals
 
 SELL SIGNAL

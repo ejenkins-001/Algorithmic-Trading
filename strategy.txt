@@ -20,7 +20,7 @@ Daily Trend Model Sell Signal
 
 If (18 day MA < 0 for two consecutive closes) & (2 red wide bodied bar candles where second candle closes 3% below the close of the first candle)
 	Enter sell order at the close
-	Remove stop loss from previously triggered daily chart buy order
-	position size = size of the previously triggered daily buy order
-	enable the ability to place new orders for daily trend buy signals
+	Remove stop loss from previously triggered daily trend model buy order
+	position size = size of the previously triggered daily trend model buy order
+	enable the ability to place new orders for daily trend model buy signals
 	

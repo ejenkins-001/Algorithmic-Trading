@@ -5,4 +5,5 @@
 •	Generated trading signals based on price action and trend analysis of 18-day simple moving average
 
 ![backtest_final](https://user-images.githubusercontent.com/35648851/98486673-19f8d300-221f-11eb-9fdf-6d7d2b2b99ed.png)
-![Capture10](https://user-images.githubusercontent.com/35648851/99866280-7c35ca00-2b75-11eb-944e-0e9f305e8bf1.JPG)
+![Capture10](https://user-images.githubusercontent.com/35648851/99866334-15fd7700-2b76-11eb-920c-584d2433dcf9.JPG)
+

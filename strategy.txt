@@ -12,7 +12,7 @@ If (18 day MA > 0 for two consecutive closes) & (2 green wide bodied bar candles
 	Enter buy market order at the close
 	Enter stop loss at the low of the first candle
 	position size = (account balance x .01) / (entry price - stop loss price)
-	disable the ability to place new orders for daily trend buy signals
+	disable the ability to place new orders for daily trend model buy signals
 
 SELL SIGNAL
 
